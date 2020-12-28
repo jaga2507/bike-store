@@ -1,0 +1,619 @@
+{
+    "vehicle": [
+        {
+            "modal_name": "Thunderbird",
+            "company": "Royal Enfield",
+            "id": 0,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 700,
+                "after_10": 650
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 20 AF 9241",
+            "available": false,
+            "img_url": "https://img.etimg.com/thumb/width-640,height-480,imgsize-152627,resizemode-1,msid-65380588/benelli-plans-to-enter-smaller-bike-segment-in-india-after-2019.jpg"
+        },
+        {
+            "modal_name": "Shine",
+            "company": "Honda",
+            "id": 1,
+            "category": "bike",
+            "cost": {
+                "per_day": 500,
+                "after_5": 400,
+                "after_10": 350
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9141",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlJF3qmOIe07yBf4hWDFaa_QWt3nmbt4roD4yNNJh_3ScagWBu&usqp=CAU"
+        },
+        {
+            "modal_name": "Swift",
+            "company": "Maruti",
+            "id": 2,
+            "category": "car",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 800,
+                "after_10": 750
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 22 AF 34632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/7083/1587199027573/front-left-side-47.jpg"
+        },
+        {
+            "modal_name": "Pulsar",
+            "company": "Bajaj",
+            "id": 3,
+            "category": "bike",
+            "cost": {
+                "per_day": 600,
+                "after_5": 500,
+                "after_10": 450
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 9131",
+            "available": true,
+            "img_url": "https://images.summitmedia-digital.com/topgear/images/2020/04/04/bmw-r18-main-1200-1585966951.jpg"
+        },
+        {
+            "modal_name": "Fortuner",
+            "company": "Toyota",
+            "id": 4,
+            "category": "car",
+            "cost": {
+                "per_day": 1200,
+                "after_5": 1000,
+                "after_10": 900
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 21 HG 38472",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/7618/1582180576624/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Thunderbird",
+            "company": "Royal Enfield",
+            "id": 5,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 700,
+                "after_10": 650
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 20 AF 9241",
+            "available": false,
+            "img_url": "https://images.unsplash.com/photo-1449426468159-d96dbf08f19f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        },
+        {
+            "modal_name": "Elite i20",
+            "company": "Hyundai",
+            "id": 6,
+            "category": "car",
+            "cost": {
+                "per_day": 1800,
+                "after_5": 1700,
+                "after_10": 1600
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 61 UY 29834",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Elite-i20/7469/1580385615869/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Passion PRO",
+            "company": "Hero",
+            "id": 7,
+            "category": "bike",
+            "cost": {
+                "per_day": 500,
+                "after_5": 450,
+                "after_10": 300
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 20 AF 8141",
+            "available": false,
+            "img_url": "https://media.zigcdn.com/media/model/2020/Mar/yamaha-yzf-r15-v3-right-side-view_360x240.jpg"
+        },
+        {
+            "modal_name": "Vitara Brezza",
+            "company": "Maruti",
+            "id": 8,
+            "category": "car",
+            "cost": {
+                "per_day": 900,
+                "after_5": 700,
+                "after_10": 600
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 41 KJ 98723",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Vitara-Brezza/7295/1585567830503/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Apache RTR",
+            "company": "TVS ",
+            "id": 9,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 750,
+                "after_10": 700
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9231",
+            "available": true,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61PIVnN9zTL._SL1000_.jpg"
+        },
+        {
+            "modal_name": "Creta",
+            "company": "Hyundai",
+            "id": 10,
+            "category": "car",
+            "cost": {
+                "per_day": 1100,
+                "after_5": 900,
+                "after_10": 800
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 87 ER 36427",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Classic 350",
+            "company": "Royal Enfield",
+            "id": 11,
+            "category": "bike",
+            "cost": {
+                "per_day": 900,
+                "after_5": 800,
+                "after_10": 750
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 9231",
+            "available": false,
+            "img_url": "https://www.tvsmotor.com/-/media/Feature/Hero-Banner/Mobile/slider-1-m.jpg?h=587&w=375&la=en&hash=B57DC889088265C144370E5E661E678A"
+        },
+        {
+            "modal_name": "Baleno",
+            "company": "Maruti",
+            "id": 12,
+            "category": "car",
+            "cost": {
+                "per_day": 1400,
+                "after_5": 1200,
+                "after_10": 1100
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 45 UI 82389",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Baleno/6780/1564491336282/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Intruder",
+            "company": "Suzuki",
+            "id": 13,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 700,
+                "after_10": 650
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 20 AF 8941",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWqxdGGltL3Ap_6e6j5L8Ga9Ly08VRSsIyGBPzkdMdCrSuDOomTA&s"
+        },
+        {
+            "modal_name": "Innova Crysta",
+            "company": "Toyota",
+            "id": 14,
+            "category": "car",
+            "cost": {
+                "per_day": 1500,
+                "after_5": 900,
+                "after_10": 800
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 44 WE 67632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Crysta/7315/1587195778480/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Dominar 400",
+            "company": "Bajaj ",
+            "id": 15,
+            "category": "bike",
+            "cost": {
+                "per_day": 550,
+                "after_5": 500,
+                "after_10": 450
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 20 AF 8241",
+            "available": false,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWWWbYdRa9C_wCjpGtqTT3ZjMjwgJ2wrOkMV96h-Efk8vJDvN-w&s"
+        },
+        {
+            "modal_name": "Nexon",
+            "company": "Tata",
+            "id": 16,
+            "category": "car",
+            "cost": {
+                "per_day": 2000,
+                "after_5": 1400,
+                "after_10": 1200
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 42 VG 67632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7297/1580710491338/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Vitpilen 250",
+            "company": "Husqvarna ",
+            "id": 17,
+            "category": "bike",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 950,
+                "after_10": 900
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9981",
+            "available": false,
+            "img_url": "https://s3.ap-south-1.amazonaws.com/www.cimg.in/images/2017/03/19/24/141583542_14898704841_large.jpg"
+        },
+        {
+            "modal_name": "KWID",
+            "company": "Renault",
+            "id": 18,
+            "category": "car",
+            "cost": {
+                "per_day": 1300,
+                "after_5": 1200,
+                "after_10": 900
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 78 VG 63432",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/7426/1580286379253/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "R15 V3.0",
+            "company": "Yamaha",
+            "id": 19,
+            "category": "bike",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 900,
+                "after_10": 800
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 5231",
+            "available": true,
+            "img_url": "https://images.carandbike.com/bike-images/colors/suzuki/hayabusa/suzuki-hayabusa-candy-daring-red.webp?v=1576504228"
+        },
+        {
+            "modal_name": "Mustang",
+            "company": "Ford",
+            "id": 20,
+            "category": "car",
+            "cost": {
+                "per_day": 1900,
+                "after_5": 1300,
+                "after_10": 1100
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 42 JK 634292",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang/1102/1569565000696/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Shine",
+            "company": "Honda",
+            "id": 21,
+            "category": "bike",
+            "cost": {
+                "per_day": 500,
+                "after_5": 400,
+                "after_10": 350
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9141",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQlJF3qmOIe07yBf4hWDFaa_QWt3nmbt4roD4yNNJh_3ScagWBu&usqp=CAU"
+        },
+        {
+            "modal_name": "Swift",
+            "company": "Maruti",
+            "id": 22,
+            "category": "car",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 800,
+                "after_10": 700
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 22 AF 34632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/7083/1587199027573/front-left-side-47.jpg"
+        },
+        {
+            "modal_name": "Pulsar",
+            "company": "Bajaj",
+            "id": 23,
+            "category": "bike",
+            "cost": {
+                "per_day": 600,
+                "after_5": 500,
+                "after_10": 450
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 9131",
+            "available": false,
+            "img_url": "https://resize.indiatvnews.com/en/resize/newbucket/715_-/2019/08/gixxer-1566902907.jpg"
+        },
+        {
+            "modal_name": "Fortuner",
+            "company": "Toyota",
+            "id": 24,
+            "category": "car",
+            "cost": {
+                "per_day": 1200,
+                "after_5": 1000,
+                "after_10": 900
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 21 HG 38472",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/7618/1582180576624/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Thunderbird",
+            "company": "Royal Enfield",
+            "id": 25,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 700,
+                "after_10": 650
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 20 AF 9241",
+            "available": false,
+            "img_url": "https://img.etimg.com/thumb/width-640,height-480,imgsize-152627,resizemode-1,msid-65380588/benelli-plans-to-enter-smaller-bike-segment-in-india-after-2019.jpg"
+        },
+        {
+            "modal_name": "Elite i20",
+            "company": "Hyundai",
+            "id": 26,
+            "category": "car",
+            "cost": {
+                "per_day": 1800,
+                "after_5": 1300,
+                "after_10": 1200
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 61 UY 29834",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Elite-i20/7469/1580385615869/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Passion PRO",
+            "company": "Hero",
+            "id": 27,
+            "category": "bike",
+            "cost": {
+                "per_day": 500,
+                "after_5": 450,
+                "after_10": 300
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 20 AF 8141",
+            "available": false,
+            "img_url": "https://stat.overdrive.in/wp-content/odgallery/2020/05/56963_Kawasaki-Ninja-650_001_468x263.jpg"
+        },
+        {
+            "modal_name": "Vitara Brezza",
+            "company": "Maruti",
+            "id": 28,
+            "category": "car",
+            "cost": {
+                "per_day": 900,
+                "after_5": 700,
+                "after_10": 600
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 41 KJ 98723",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Vitara-Brezza/7295/1585567830503/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Apache RTR",
+            "company": "TVS ",
+            "id": 29,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 750,
+                "after_10": 700
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9231",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6y7itz-pk8oxhEy8qztV9_yc7eBHuga0tN-DDtA3UbapjeMbW&usqp=CAU"
+        },
+        {
+            "modal_name": "Creta",
+            "company": "Hyundai",
+            "id": 30,
+            "category": "car",
+            "cost": {
+                "per_day": 1100,
+                "after_5": 900,
+                "after_10": 800
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 87 ER 36427",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/6775/1584360708758/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Classic 350",
+            "company": "Royal Enfield",
+            "id": 31,
+            "category": "bike",
+            "cost": {
+                "per_day": 900,
+                "after_5": 800,
+                "after_10": 750
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 9231",
+            "available": false,
+            "img_url": "https://www.harley-davidson.com/content/dam/h-d/images/motorcycles/my20/softail/low-rider-s/paint-360/dom/mobile/c25/20-hd-low-rider-s-bike-c25-06.jpg"
+        },
+        {
+            "modal_name": "Baleno",
+            "company": "Maruti",
+            "id": 32,
+            "category": "car",
+            "cost": {
+                "per_day": 1400,
+                "after_5": 1200,
+                "after_10": 900
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 45 UI 82389",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Maruti-Baleno/6780/1564491336282/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Intruder",
+            "company": "Suzuki",
+            "id": 33,
+            "category": "bike",
+            "cost": {
+                "per_day": 800,
+                "after_5": 700,
+                "after_10": 650
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 20 AF 8941",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5HjO2BJkCpI-zX7SoaAx2a_mnMrlTw8LjDd6j553r2o31ZXaW&usqp=CAU"
+        },
+        {
+            "modal_name": "Innova Crysta",
+            "company": "Toyota",
+            "id": 34,
+            "category": "car",
+            "cost": {
+                "per_day": 1500,
+                "after_5": 1200,
+                "after_10": 1000
+            },
+            "location": "bangalore",
+            "vehicle_no": "TN 44 WE 67632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Crysta/7315/1587195778480/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Dominar 400",
+            "company": "Bajaj ",
+            "id": 35,
+            "category": "bike",
+            "cost": {
+                "per_day": 550,
+                "after_5": 500,
+                "after_10": 450
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 20 AF 8241",
+            "available": false,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTnswe9g88eoQDl6Crjf-t4_YH84XtnbNK8hjIxlFD81FRZ0X3&usqp=CAU"
+        },
+        {
+            "modal_name": "Nexon",
+            "company": "Tata",
+            "id": 36,
+            "category": "car",
+            "cost": {
+                "per_day": 2000,
+                "after_5": 1400,
+                "after_10": 1200
+            },
+            "location": "hyderabad",
+            "vehicle_no": "TN 42 VG 67632",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/7297/1580710491338/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "Vitpilen 250",
+            "company": "Husqvarna ",
+            "id": 37,
+            "category": "bike",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 950,
+                "after_10": 900
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 20 AF 9981",
+            "available": false,
+            "img_url": "https://www.drivespark.com/bikes-photos/models/450x350/himalayan_1515500036.jpg/3/x.pagespeed.ic.hVB0G7CTSj.jpg"
+        },
+        {
+            "modal_name": "KWID",
+            "company": "Renault",
+            "id": 38,
+            "category": "car",
+            "cost": {
+                "per_day": 1300,
+                "after_5": 800,
+                "after_10": 600
+            },
+            "location": "chennai",
+            "vehicle_no": "TN 78 VG 63432",
+            "available": true,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/KWID/7426/1580286379253/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        },
+        {
+            "modal_name": "R15 V3.0",
+            "company": "Yamaha",
+            "id": 39,
+            "category": "bike",
+            "cost": {
+                "per_day": 1000,
+                "after_5": 900,
+                "after_10": 800
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 20 AF 5231",
+            "available": true,
+            "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRry9CMKPO4CYUirfDFvSYZV_96-X67vxnxW2NTefiLltQOQEaL&usqp=CAU"
+        },
+        {
+            "modal_name": "Mustang",
+            "company": "Ford",
+            "id": 40,
+            "category": "car",
+            "cost": {
+                "per_day": 1900,
+                "after_5": 1300,
+                "after_10": 1100
+            },
+            "location": "trichy",
+            "vehicle_no": "TN 42 JK 634292",
+            "available": false,
+            "img_url": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang/1102/1569565000696/front-left-side-47.jpg?tr=w-456,e-sharpen"
+        }
+    ]
+}
